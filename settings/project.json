@@ -1,0 +1,117 @@
+{
+  "group-list": [
+    "default",
+    "ui",
+    "player",
+    "enemy",
+    "bg",
+    "floor",
+    "gameUI",
+    "suc"
+  ],
+  "collision-matrix": [
+    [
+      true,
+      null,
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      true,
+      null,
+      true,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "EditBox",
+    "MotionStreak",
+    "Native Socket",
+    "ParticleSystem",
+    "RichText",
+    "Spine Skeleton",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "start-scene": "3cf303ea-fe41-45de-b3ca-c521416b86f7",
+  "preview-port": 7456,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "clear-simulator-cache": true,
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "last-module-event-record-time": 1617885791803,
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

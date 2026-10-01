@@ -1,0 +1,15 @@
+{
+  "platform": "bytedance-mini-game",
+  "taskName": "bytedance-mini-game",
+  "outputName": "bytedance-mini-game",
+  "name": "喵喵厨房",
+  "buildPath": "project://build",
+  "startScene": "3cf303ea-fe41-45de-b3ca-c521416b86f7",
+  "debug": false,
+  "packages": {
+    "bytedance-mini-game": {
+      "appid": "",
+      "orientation": "portrait"
+    }
+  }
+}

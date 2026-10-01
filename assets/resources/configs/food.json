@@ -1,0 +1,267 @@
+[
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng2",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "bingsha": "hongbingsha"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng1",
+            "jiaceng4",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng2",
+            "jiaceng5",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng5",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng3",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng3",
+            "jiaceng4",
+            "jiaceng6",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng1",
+            "jiaceng2",
+            "jiaceng3",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng3",
+            "jiaceng5",
+            "mianbaoxia",
+            "jiaceng3",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng7",
+            "jiaceng6",
+            "mianbaoxia",
+            "jiaceng2",
+            "jiaceng1",
+            "mianbaoshang"
+        ]
+    },
+    {
+        "bingsha": "huangbingsha"
+    },
+    {
+        "bingsha": "lanbingsha"
+    },
+    {
+        "bingsha": "tangjiangbingsha"
+    },
+    {
+        "bingsha": "qianlvbingsha"
+    },
+    {
+        "kaiweicai": "kaiweicai1"
+    },
+    {
+        "kaiweicai": "kaiweicai2",
+        "bingsha": "hongbingsha"
+    },
+    {
+        "kaiweicai": "kaiweicai3",
+        "bingsha": "huangbingsha"
+    },
+    {
+        "kaiweicai": "kaiweicai3",
+        "bingsha": "lanbingsha"
+    },
+    {
+        "kaiweicai": "kaiweicai3",
+        "bingsha": "lanbingsha",
+        "dingcengpeiliao": "dingcengpeiliao"
+    },
+    {
+        "chadi": "chadi",
+        "bingsha": "lanbingsha"
+    },
+    {
+        "chadi": "chadi",
+        "bingsha": "hongbingsha"
+    },
+    {
+        "chadi": "chadi",
+        "bingsha": "hongbingsha"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng4",
+            "mianbaoshang"
+        ],
+        "bingsha": "hongbingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "chadi": "chadi",
+        "kaiweicai": "kaiweicai1"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng6",
+            "jiaceng2",
+            "mianbaoshang"
+        ],
+        "bingsha": "qianzibingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "chadi": "chadi",
+        "kaiweicai": "kaiweicai2"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng7",
+            "jiaceng5",
+            "mianbaoshang"
+        ],
+        "bingsha": "zibingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "kaiweicai": "kaiweicai3"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng3",
+            "jiaceng5",
+            "jiaceng6",
+            "mianbaoshang"
+        ],
+        "bingsha": "qianchengbingsha",
+        "kaiweicai": "kaiweicai1"
+    },
+    {
+        "bingsha": "qianchengbingsha"
+    },
+    {
+        "bingsha": "qianhuangbingsha"
+    },
+    {
+        "bingsha": "qianlanbingsha"
+    },
+    {
+        "bingsha": "zongbingsha"
+    },
+    {
+        "bingsha": "fenbingsha"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng1",
+            "jiaceng3",
+            "mianbaoshang"
+        ],
+        "bingsha": "qianhuangbingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "kaiweicai": "kaiweicai2"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng4",
+            "jiaceng3",
+            "mianbaoxia",
+            "jiaceng2",
+            "jiaceng1",
+            "mianbaoshang"
+        ],
+        "bingsha": "qianlanbingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "kaiweicai": "kaiweicai2"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng4",
+            "mianbaoxia",
+            "jiaceng2",
+            "mianbaoshang"
+        ],
+        "bingsha": "zongbingsha",
+        "chadi": "chadi",
+        "kaiweicai": "kaiweicai3"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng4",
+            "mianbaoxia",
+            "jiaceng2",
+            "mianbaoshang"
+        ],
+        "bingsha": "fenbingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "chadi": "chadi",
+        "kaiweicai": "kaiweicai1"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng4",
+            "jiaceng2",
+            "mianbaoshang"
+        ],
+        "bingsha": "fenbingsha",
+        "kaiweicai": "kaiweicai2"
+    },
+    {
+        "hanbao": [
+            "mianbaoxia",
+            "jiaceng1",
+            "jiaceng4",
+            "jiaceng2",
+            "jiaceng1",
+            "mianbaoshang"
+        ],
+        "bingsha": "qianlanbingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "kaiweicai": "kaiweicai2"
+    },
+    {
+        "bingsha": "qianhuangbingsha",
+        "dingcengpeiliao": "dingcengpeiliao",
+        "kaiweicai": "kaiweicai2"
+    },
+    {
+        "bingsha": "qianhuangbingsha",
+        "kaiweicai": "kaiweicai1"
+    }
+]

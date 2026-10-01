@@ -1,0 +1,18 @@
+{
+  "name": "miaomiao-kitchen",
+  "displayName": "喵喵厨房",
+  "author": {
+    "name": "chenk",
+    "email": "hzzhewu@163.com"
+  },
+  "uuid": "7d5f8057-62f1-4f64-b687-abd9205aeab7",
+  "creator": {
+    "version": "3.8.8",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "plugin-import-2x": "1.1.10"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "extends": "./temp/tsconfig.cocos.json",
+  "compilerOptions": {
+    "strict": false,
+    "skipLibCheck": true,
+    "lib": ["es2017", "dom"],
+    "forceConsistentCasingInFileNames": true
+  },
+  "files": [],
+  "include": ["assets/**/*.ts", "assets/**/*.d.ts"],
+  "exclude": [
+    "node_modules",
+    "library",
+    "local",
+    "temp",
+    "build",
+    "assets/Script/Framework/Library/Encrypt",
+    "extensions"
+  ]
+}
