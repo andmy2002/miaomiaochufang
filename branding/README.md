@@ -16,7 +16,7 @@
 3. 启动图：竖版小猫厨房场景，保留顶部「喵喵厨房」标题和中心角色，薄荷绿主色与橙黄色食物呼应，留出安全边距。
 4. 分享图：横版 16:9 场景，左侧「喵喵厨房」标题、右侧小猫厨师与汉堡，沿用相同描边、帽子和主色。
 
-`喵喵厨房-logo.png` 已复制到 `assets/texture/miaomiao_logo.png`，并替换加载场景的旧龙骨 Logo。旧龙骨 Logo 文件已删除。平台导出图保存在 `branding/platform/`，不覆盖这四张原图。
+`喵喵厨房-logo.png` 已复制到 `assets/texture/miaomiao_logo.png`，旧龙骨 Logo 文件已删除。2026-10-03，加载场景 `assets/scene/loadScene.scene` 的旧模糊角色背景 `assets/texture/img_lonibg.png` 已替换为从确认过的启动图导出的 720 × 1560 版本；启动图本身带标题，因此场景中的重复 Logo 节点与旧暗色遮罩节点已关闭，进度条保留。平台导出图保存在 `branding/platform/`，不覆盖四张原图。
 
 | 平台 | 文件 | 状态 |
 | --- | --- | --- |
